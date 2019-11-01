@@ -1,0 +1,35 @@
+{
+  "name": "HelpdeskAgentAttendedAutomation",
+  "description": "Trigger Based Attended Automation for Helpdesk Agent to creaet a ticket in Zoho desk application",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.7.1-beta.557523]",
+    "UiPath.Mail.Activities": "[1.7.1-beta.557462]",
+    "UiPath.System.Activities": "[19.10.0-beta.558599]",
+    "UiPath.UIAutomation.Activities": "[19.10.0-beta.569505]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "19.10.0.155",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    }
+  },
+  "expressionLanguage": "VisualBasic"
+}
