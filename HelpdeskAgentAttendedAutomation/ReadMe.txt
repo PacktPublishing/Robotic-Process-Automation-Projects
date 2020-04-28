@@ -17,6 +17,10 @@ Pre Requiste:
 5. Open the Main.xaml in Studio and Run the automation.
 6. Use ALT + S to Trigger the automation and use 'STOP' option in Studio to stop the bot.
 
+Note:
+Zoho website will be continously updates so the selectors used in this project should be updated before you try it. It can be easily performed by just using the "Indicate on Screen" Option"
+ 
+
 Depedencies Error and Fix:
 If you get a Error when you open the Main.xaml i.e. avtivities are not loaded propoerly. Follow the below steps.
 1. Close the main.xaml.
