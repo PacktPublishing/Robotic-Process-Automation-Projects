@@ -10,9 +10,14 @@ Pre Requiste:
 
 1. UiPath Studio is installed 
 2. User has trail access to both Apptivo CRM and Crucnbase site
-3. Apptivo CRM already logged in a Chrome Browser. 
+3. Apptivo CRM -> Customers already logged in a Chrome Browser. 
 4. Crunchbase.com site page is closed in Browser.
 5. Only the Customer names are filled in the Apptivo CRM.
+
+
+Note:
+Apptivo and Crunchbase website will be continously updated if the automation failes then you need to update the selectors used in this project before you try it again. It can be easily performed by just using the "Indicate on Screen" Option"
+ 
 
 Depedencies Error and Fix:
 If you get a Error when you open the Main.xaml i.e. avtivities are not loaded properly. Follow the below steps.
