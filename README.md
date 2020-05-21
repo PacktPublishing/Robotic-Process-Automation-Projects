@@ -38,7 +38,6 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-https://www.packtpub.com/in/authors/alok-mani-tripathi
 
 
 ## Code in Action
