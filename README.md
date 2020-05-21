@@ -38,7 +38,7 @@ With the following software and hardware list you can run all code files present
 
 ### Software and Hardware List
 
-
+https://github.com/PacktPublishing/Robotic-Process-Automation-Projects/blob/master/Software%20Hardware%20List.pdf
 
 ## Code in Action
 
