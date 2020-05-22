@@ -34,7 +34,7 @@ if (test expression)
 **Following is what you need for this book:**
 This RPA book is for enterprise application developers, software developers, business analysts, or any professional who wants to implement RPA across various domains of the business. The book assumes some understanding of enterprise systems. Computer programming experience will also be beneficial.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 
 ### Software and Hardware List
 
