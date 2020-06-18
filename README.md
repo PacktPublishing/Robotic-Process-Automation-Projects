@@ -42,9 +42,8 @@ https://github.com/PacktPublishing/Robotic-Process-Automation-Projects/blob/mast
 
 ## Code in Action
 
-Click on the following link to see the Code in Action:
+Click on the following link to see the Code in Action: (https://bit.ly/2Zo0s1u)
 
-[Placeholder link](https://bit.ly/2Zo0s1u)
 
 ### Related products <Other books you may enjoy>
 * Robotic Process Automation with Blue Prism Quick Start Guide [[Packt]](https://www.packtpub.com/business/robotic-process-automation-blue-prism-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789610444) [[Amazon]](https://www.amazon.com/dp/1789610443)
@@ -53,7 +52,7 @@ Click on the following link to see the Code in Action:
 
 ## Get to Know the Author
 **Alok Mani Tripathi**
-Alok Mani Tripathi is the founder of RPATech, which is a leading end-to-end consulting and services company with a focus on RPA and AI. He is an early adopter of RPA and has been connected with various RPA tools providers and analysts. He has trained 200+ people on different RPA platforms. Alok has created and led multiple RPA Center of Excellence (CoE) for global organizations with a clear focus on cognitive and service delivery automation. He is a long-time contributor to the RPA community and maintains a community group with a huge following on LinkedIn.
+is the founder of RPATech, which is a leading end-to-end consulting and services company with a focus on RPA and AI. He is an early adopter of RPA and has been connected with various RPA tools providers and analysts. He has trained 200+ people on different RPA platforms. Alok has created and led multiple RPA Center of Excellence (CoE) for global organizations with a clear focus on cognitive and service delivery automation. He is a long-time contributor to the RPA community and maintains a community group with a huge following on LinkedIn.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
