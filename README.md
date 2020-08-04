@@ -1,6 +1,6 @@
 # Robotic Process Automation Projects
 
-<a href="https://www.packtpub.com/business-other/robotic-process-automation-projects?utm_source=github&utm_medium=repository&utm_campaign=9781839217357"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781839217357-original.jpeg" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/business-other/robotic-process-automation-projects?utm_source=github&utm_medium=repository&utm_campaign=9781839217357"><img src="https://www.packtpub.com/media/catalog/product/cache/4cdce5a811acc0d2926d7f857dceb83b/9/7/9781839217357-original.jpeg" alt="Book Name" height="256px" align="right"></a>
 
 This is the code repository for [Robotic Process Automation Projects](https://www.packtpub.com/business-other/robotic-process-automation-projects?utm_source=github&utm_medium=repository&utm_campaign=9781839217357), published by Packt.
 
@@ -42,7 +42,8 @@ https://github.com/PacktPublishing/Robotic-Process-Automation-Projects/blob/mast
 
 ## Code in Action
 
-Click on the following link to see the Code in Action: (https://bit.ly/2Zo0s1u)
+Click on the following link to see the Code in Action: 
+[YouTube](https://www.youtube.com/playlist?list=PLeLcvrwLe1869-M2iipE8gVb1jAjlXh2-)
 
 
 ### Related products <Other books you may enjoy>
