@@ -52,9 +52,12 @@ Click on the following link to see the Code in Action:
 
 * Learning Robotic Process Automation [[Packt]](https://www.packtpub.com/in/business/learning-robotic-process-automation?utm_source=github&utm_medium=repository&utm_campaign=9781788470940) [[Amazon]](https://www.amazon.com/dp/178847094X)
 
-## Get to Know the Author
-**Alok Mani Tripathi**
-is the founder of RPATech, which is a leading end-to-end consulting and services company with a focus on RPA and AI. He is an early adopter of RPA and has been connected with various RPA tools providers and analysts. He has trained 200+ people on different RPA platforms. Alok has created and led multiple RPA Center of Excellence (CoE) for global organizations with a clear focus on cognitive and service delivery automation. He is a long-time contributor to the RPA community and maintains a community group with a huge following on LinkedIn.
+## Get to Know the Author(s)
+**Nandan Mullakara**
+is a CEO at Innomatiq working in the RPA domain and is involved in Intelligent Automation, Consulting, and Program management. Nandan helps clients automate with Robotic Process Automation (RPA) and Cognitive technologies. He was most recently the head of RPA Consultancy at Fujitsu America where he helped enable the Fujitsu Digital Workforce offering.
+
+**Arun Kumar Asokan**
+is an Assistant Vice President (AVP) at EXL Service and is a Business Process Management & Intelligent Automation Consulting professional. Currently, he is helping clients design and operate Robotic Process Automation (RPA) Center Of Excellence (CoE) and build their AI and Intelligent Document Processing capabilities. He has previously worked in different Digital consulting groups in HCL, Infosys and Wipro helping clients in different parts of the globe. In addition to this, Arun promotes the RPA technologies by educating junior RPA developers with demo videos and thought leadership articles.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
